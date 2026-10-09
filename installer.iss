@@ -3,7 +3,7 @@
 
 #define MyAppName "TagQt"
 #define MyAppPublisher "TagQt"
-#define MyAppURL "https://github.com/near-link/tagqt"
+#define MyAppURL "https://github.com/evaunit13/tagqt"
 #define MyAppExeName "TagQt.exe"
 
 [Setup]
